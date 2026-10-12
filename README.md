@@ -35,8 +35,8 @@ expense-intelligence-dashboard/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/expense-intelligence-dashboard.git
-cd expense-intelligence-dashboard
+git clone https://github.com/Shraddhhha/expense-dashboard.git
+cd expense-dashboard
 
 # 2. (Optional) create a virtual environment
 python -m venv .venv
@@ -113,4 +113,4 @@ python data/generate_sample_data.py
 ## Author
 
 **Shraddha Suresh**
-[LinkedIn](#) · [GitHub](#)
+
